@@ -5,3 +5,9 @@ https://www.researchgate.net/publication/355838622_Robust_Ensemble_Machine_Learn
 
 Feature extraction code
 https://github.com/ebubekirbbr/pdd/tree/master/src
+
+Datsets
+https://github.com/ebubekirbbr/pdd/tree/master/input
+
+Instruction
+1. Run the train.py
