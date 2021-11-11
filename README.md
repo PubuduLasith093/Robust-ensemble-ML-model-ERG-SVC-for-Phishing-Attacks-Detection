@@ -10,7 +10,7 @@ https://www.researchgate.net/publication/355838622_Robust_Ensemble_Machine_Learn
 
 python >= 3.8
 
-#Instructions
+# Instructions
 
 
 Feature extraction code and datasets were collected from - O. K. Sahingoz, E. Buber, O. Demir, and B. Diri, “Machine learning based phishing detection from URLs,” Expert systems with applications, vol. 117, pp. 345–357, 2019, publisher: Elsevier BV.
