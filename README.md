@@ -13,17 +13,13 @@ python >= 3.8
 # Instructions
 
 *Feature Reduction.ipynb* - 
-This code includes all feature reduction tecgniques used for the experiments
+This code includes all feature reduction techniques used for the experiments.
 
 *ERG-SVC model.ipynb* - 
 This code includes the code for proposed ensemble model (ERG-SVC)
 
 
 
-Feature extraction code
-https://github.com/ebubekirbbr/pdd/tree/master/src
 
-Datsets
-https://github.com/ebubekirbbr/pdd/tree/master/input
 
 
