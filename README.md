@@ -12,10 +12,10 @@ python >= 3.8
 
 # Instructions
 
-Feature Reduction.ipynb
+Feature Reduction.ipynb - 
 This code includes all feature reduction tecgniques used for the experiments
 
-ERG-SVC model.ipynb
+ERG-SVC model.ipynb - 
 This code includes the code for proposed ensemble model (ERG-SVC)
 
 
