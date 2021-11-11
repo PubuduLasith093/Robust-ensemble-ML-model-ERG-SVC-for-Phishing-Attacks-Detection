@@ -12,8 +12,13 @@ python >= 3.8
 
 # Instructions
 
+Feature Reduction.ipynb
+This code includes all feature reduction tecgniques used for the experiments
 
-Feature extraction code and datasets were collected from - O. K. Sahingoz, E. Buber, O. Demir, and B. Diri, “Machine learning based phishing detection from URLs,” Expert systems with applications, vol. 117, pp. 345–357, 2019, publisher: Elsevier BV.
+ERG-SVC model.ipynb
+This code includes the code for proposed ensemble model (ERG-SVC)
+
+
 
 Feature extraction code
 https://github.com/ebubekirbbr/pdd/tree/master/src
@@ -21,5 +26,4 @@ https://github.com/ebubekirbbr/pdd/tree/master/src
 Datsets
 https://github.com/ebubekirbbr/pdd/tree/master/input
 
-Instruction
-1. Run the train.py
+
