@@ -15,8 +15,11 @@ python >= 3.8
 *Feature Reduction.ipynb* - 
 This code includes all feature reduction techniques used for the experiments.
 
+*stacking model.ipynb* - 
+This file includes the code for building the stacking model using base classifiers.
+
 *ERG-SVC model.ipynb* - 
-This code includes the code for proposed ensemble model (ERG-SVC).
+This code includes the proposed ensemble model (ERG-SVC).
 
 
 
